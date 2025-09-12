@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+
+# C++
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# C++/CLI
+*.ilk
+*.pdb
+*.pdb.meta
+*.iobj
+*.ipch
+*.i
+*.obj
+*.svclog
+*.tlb
+*.tlh
+*.pdb
+*.lib
+*.exp
+*.dll
+*.log
+
+# Visual Studio compiler crash dump files
+*.dmp
+
+# Python
+__pycache__/
